@@ -7,7 +7,6 @@ The notebook automates the standard **GHRU workflow**, combining:
 - **[BactScout](https://github.com/ghruproject/bactscout)** for QC  
 - **[GHRU-Assembly](https://github.com/ghruproject/GHRU-assembly)** for genome assembly
 
-It is designed to be used on the in-house sequencing server after **BCL-to-FASTQ conversion**.
 
 ---
 
@@ -96,5 +95,5 @@ mamba run -n nextflow mamba install -c bioconda nextflow -y
 
 **Varun Shamanna**  
 Senior Bioinformatician, Central Research Laboratory, KIMS, Bengaluru  
-PhD Researcher — *Klebsiella Genomics and AMR Surveillance*
+PhD Researcher
 
