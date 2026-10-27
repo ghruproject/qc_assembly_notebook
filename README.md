@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Development has moved to GitLab.**
+> The maintained repository is [cgps/ghru/qc_assembly_notebook](https://gitlab.com/cgps/ghru/qc_assembly_notebook). Please use GitLab for the latest code, issues, and merge requests.
+> This GitHub copy is retained for existing links and migration checks.
+
 # 🧬 Routine WGS QC and Assembly Workflow
 
 This repository contains a **Jupyter Notebook workflow** for performing **Quality Control (QC)** and **Genome Assembly**  
